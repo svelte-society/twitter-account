@@ -1,0 +1,5 @@
+If you're looking for a faster alternative to Storybook, come check out Vitebook. We've added a few patches recently to make it more SvelteKit friendly!
+
+Run `npm init vitebook` in a SvelteKit project to try it out!
+
+https://github.com/vitebook/vitebook
